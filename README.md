@@ -24,7 +24,7 @@ The main objective of this project is to:
 ---
 
 ## 📊 Key Metrics
-- **Total Sales:** ₹6,98,812  
+- **Total Sales:** $6,98,812  
 - **Total Footfall:** 1,49,116  
 - **Average Bill per Person:** ₹4.69  
 - **Average Orders per Person:** 1.44  
