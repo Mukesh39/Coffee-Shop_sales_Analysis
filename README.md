@@ -1,7 +1,7 @@
 # Coffee-Shop_sales_Analysis
 ## 📷 Dashboard Preview
 
-<img width="920" height="451" alt="Complete Project 1" src="https://github.com/user-attachments/assets/1a83bc03-785f-43d4-a7c1-79b4b453f15d" />
+<img width="920" height="451" alt="image" src="https://github.com/user-attachments/assets/fe2c5dcb-c05c-4bf0-9d7b-87ba39c2391e" />
 
 ---
 
