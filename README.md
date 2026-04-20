@@ -1,10 +1,14 @@
 # Coffee-Shop_sales_Analysis
+
+# ☕ Coffee Shop Sales Analysis Dashboard
 ## 📷 Dashboard Preview
 
 <img width="920" height="451" alt="image" src="https://github.com/user-attachments/assets/fe2c5dcb-c05c-4bf0-9d7b-87ba39c2391e" />
 
 ---
 
+## 📌 Project Overview
+This project focuses on analyzing retail sales data of a coffee shop to extract actionable insights that help improve business performance. The analysis is performed using Excel and visualized through an interactive dashboard.
 
 # ☕ Coffee Shop Sales Analysis Dashboard
 
@@ -24,9 +28,9 @@ The main objective of this project is to:
 ---
 
 ## 📊 Key Metrics
-- **Total Sales:** $6,98,812  
-- **Total Footfall:** 1,49,116  
-- **Average Bill per Person:** ₹4.69  
+- **Total Sales:** $698,812  
+- **Total Footfall:** 149,116  
+- **Average Bill per Person:** $4.69  
 - **Average Orders per Person:** 1.44  
 
 ---
@@ -131,7 +135,6 @@ The main objective of this project is to:
 The business operates on a **high-volume, low-value model**, with strong performance in the morning and reliance on coffee products. By improving upselling strategies, evening sales, and store-level optimization, significant growth opportunities can be unlocked.
 
 ---
-
 
 ## ⭐ Project Highlights
 - End-to-end data analysis
